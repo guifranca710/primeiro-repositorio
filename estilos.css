@@ -6,10 +6,35 @@ h1 {
     text-align: center;
 }
 
+.pricipal {
+    background: #cccccc;
+padding: 30px;
+}
+
 p {
     text-align: center;
 }
 
 em strong {
     color: red;
+}
+
+.beneficios{
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+
+h2{
+    text-align: center;
+}
+.imagembeneficios {
+   width: 50px;;
+}
+
+ul{
+display: inline-block;
+vertical-align: top;
+width: 20%;
+margin: 15%;
 }
